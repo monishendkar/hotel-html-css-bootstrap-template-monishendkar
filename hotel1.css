@@ -1,0 +1,108 @@
+.navbar-brand
+{
+height: 100px;
+font-family: 'Lobster', cursive;
+}
+
+
+.collapse {
+    margin-left: 500px;
+}
+
+.h11
+{
+text-align: center;
+margin-top: 50px;
+margin-bottom: 100px;
+font-family: 'Merienda', cursive;
+padding-bottom: 40px;
+}
+.h33
+{
+    /* text-align: left; */
+    padding-right: 700px;
+    padding-left: 25px;
+}
+
+.moni
+{
+background-image: url(https://i.content4travel.com/cms/img/u//desktop/se/tfspark_5.jpg?version=38?version=1);
+width:100%;
+height:500px;
+background-repeat: no-repeat; 
+background-position: 500px;
+margin-top: 40px;
+}
+.h22
+{
+text-align: center;
+margin-top: 70px;
+
+}
+#contact{
+    width: 100%;
+    background-color: #343A40;
+    margin-top: 5%;
+    height: 400px;
+}
+
+#fas1
+{
+    padding: 10% 5%;
+    color: white;
+    margin-top: 3%;
+    margin-left: 30%
+}
+#fas2
+{
+    padding: 5% 5%;
+    color: white;
+}
+
+#fas3
+{
+    color: white;
+    padding: 5% 5%;
+
+}
+
+
+.p11
+{
+    text-align: center;
+    color: white;
+}
+#bdy
+{
+height: 300px;
+width: 300px;
+}
+#bdy:hover
+
+    {
+        transform: scale(0.7);
+        transition: all 1s ease-in;
+        filter: brightness(1.0);
+ }
+ #wedding
+ {
+     height: 300px;
+     width: 300px;
+ }
+ #wedding:hover
+{
+    transform: scale(0.7);
+    transition: all 1s ease-in;
+    filter: brightness(1.0);
+}
+#party
+{
+    height: 300px;
+    width: 300px;
+}
+#party:hover
+{
+    transform: scale(0.7);
+    transition: all 1s ease-in;
+    filter: brightness(1.0);
+}
